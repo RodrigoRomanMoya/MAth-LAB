@@ -10,4 +10,5 @@ for i=1:1:n
         x(i)=-cos(x(i-1))/3
     end 
 end
+plot(vectorIt,x);
 
